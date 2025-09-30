@@ -26,9 +26,9 @@ A simple **YouTube Clone** built using **HTML** and **CSS**, designed to replica
 ```
 youtube-clone/
 │
-├── index.html # Main HTML file
-├── style.css # CSS file for styling
-└── assets/ # (Optional) Images, thumbnails, icons
+├── youTube.html # Main HTML file
+├── css files # CSS file for styling
+└── assets/  # (Optional) Images, thumbnails, icons
 ```
 
 
